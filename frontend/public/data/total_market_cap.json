@@ -1,7 +1,7 @@
 {
   "ok": true,
   "data_type": "total_market_cap",
-  "value": 3182889769065.985,
+  "value": 3162279067485.065,
   "provider": "coingecko",
   "metadata": {
     "currency": "USD"
